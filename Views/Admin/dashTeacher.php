@@ -36,7 +36,7 @@ $teachers = $stmt->fetchAll(PDO::FETCH_ASSOC);
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Techeon Academy - Gestion des Enseignants</title>
+    <title>TechNeon Academy - Gestion des Enseignants</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="min-h-screen flex bg-gray-50">
