@@ -40,7 +40,7 @@ $topTeachers = $db->getTopTeachers();
                     </li>
                     <li>
                         <a href="dashUser.php" class="flex items-center px-4 py-3 text-gray-700 hover:bg-gray-50 rounded-lg">
-                            👥 Utilsateurs
+                            👥 Utilisateurs
                         </a>
                     </li>
                     <li>
